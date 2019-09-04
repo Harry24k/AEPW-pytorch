@@ -22,3 +22,7 @@ Also, this code shows adversarial attack is possible with a photo if an adversar
   - Blur, noise and JPEG encoding have a higher destruction rate than brightness and contrast.
 - Paper shows that, to obtain very high confidence, iterative methods are weak to survive photo transformation. (p.8-9)
   - prefiltered case(clean image correctly classified, adversarial image confidently incorrectly classified) couldn't fool the model after transformations unlike average case(randomly chosen images)
+
+## Notice
+- This Repository won't be updated.
+- Please check [the package of adversarial attacks in pytorch](https://github.com/Harry24k/adversairal-attacks-pytorch)
